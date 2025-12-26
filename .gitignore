@@ -1,0 +1,10 @@
+**/db/
+**/incremental_db/
+**/simulation/
+**/timing/
+**/testbench/
+**/output_files/
+
+**.bak
+**.qws
+**/*description.txt
